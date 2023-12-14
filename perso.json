@@ -1,0 +1,42 @@
+{
+    "name": "blankman",
+    "details": {
+        "apparence": "le perso de test est une forme humanoïde blanche sans visage et d’une taille moyenne",
+        "histoire": "Le perso de test es né dans une boite en carton, n’a pas de famille et a simplment existé dans sa forme finale instantanément"
+    },
+    "distinctions": [
+        {
+            "title": "Neutre en tout points",
+            "sfx":[]
+        },
+        {
+            "title": "Muet",
+            "sfx":[]
+        },
+        {
+            "title": "Immortel",
+            "sfx":[]
+        }
+    ],
+    "attributes": {
+        "puissance": 1,
+        "talent": 1,
+        "aura": 1,
+        "lucidité": 1
+    },
+    "skills": [
+        
+    ],
+    "assets": [
+        {
+            "title": "asset1",
+            "value": 1,
+            "description": "La description de l’asset 1"
+        },
+        {
+            "title": "asset2",
+            "value": 1,
+            "description": "La description de l’asset 2"
+        }
+    ]
+}
