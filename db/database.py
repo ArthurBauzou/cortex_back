@@ -27,9 +27,7 @@ def testinsert():
     db.personnage.insert_one(blankman)
 
 def testread():
-    data = db.personnage.find_one()
-    pprint(data['name'])
+    data = db.personnage.find_one({}, {'_id': 0})
+    return data
 
-
-testinsert()
-testread()
+# pprint(testread())

@@ -1,13 +1,14 @@
 from fastapi import FastAPI
-import json
-
-with open('./perso.json', 'r', encoding='utf-8') as jsonfile:
-    perso = json.load(jsonfile)
-    
-print(perso['name'])
+from db.database import testread
 
 app = FastAPI()
 
-@app.get('/test_perso')
-async def test_perso():
-    return perso
+@app.get('/')
+async def home():
+    return('nope')
+
+@app.get('/test')
+async def test():
+    blankman = testread()
+    print(blankman['name'])
+    return blankman
