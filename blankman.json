@@ -1,0 +1,114 @@
+{
+    "name": "Blankman",
+    "details": {
+        "apparence": "Blankman est une forme humanoïde blanche sans visage et d’une taille moyenne. Malgré son nom, la forme de son corps est androgyne et son entrejambe ne possède aucun organe ni orifice",
+        "histoire": "Le perso de test est né dans une boite en carton, n’a pas de famille et a simplment existé dans sa forme finale instantanément"
+    },
+    "distinctions": [
+        {
+            "title": "Vraie Neutralité",
+            "description": "Blankman semble agir pour toujours rétablir la neutralité, l’équilibre et l’églité. Ses actes sont décidés et francs. Il fait rarement preuve d’hésitation au point de sembler impulsif",
+            "sfx": [
+                {
+                    "title": "« Comme toute chose devrait-être »",
+                    "effect": "Blankman gagne un PP",
+                    "cost": "Rétablir un équilibre contre tout bon sens, comme par exemple changer de camp en cas de supériorité numérique ou donner la moitié de ses posessions à un mendiant."
+                }
+            ]
+        }, {
+            "title": "Muet mais Bavard",
+            "description": "Blankman ne peut pas parler mais emmet des sons simples. Il gesticule beaucoup afin de se faire comprendre. Les gens qui le cotoient finissent per le comprendre parfaitement"
+        }, {
+            "title": "Maniaque de la Propreté",
+            "description": "Blankman ne supporte pas la seleté, en particulier sur lui. Il nettoie tout dès qu’il le peut, et est très doué pour ça.",
+            "sfx": [
+                {
+                    "title": "SuperGomme",
+                    "effect": "Blankman peut nettoyer une surface d’environ 2m² en la touchant. Ce nettoyage est surnaturel et peut donc même effacer l’encre ou la peinture, laissant une surface trop propre et trop nette pour sembler réelle. Il peut controler la forme de son nettoyage avec une extrême précision.",
+                    "cost": "Gratuit s’il a du temps et que la surface est assez lisse et sombre, sinon un PP"
+                }
+            ]
+        }
+    ],
+    "attributes": [
+        {
+            "title": "Puissance",
+            "value": 2,
+            "description": "Votre force, vitesse, volonté et vitalité"
+        }, {
+            "title": "Talent",
+            "value": 4,
+            "description": "Votre agilité, précision, grâce et inspiration"
+        }, {
+            "title": "Aura",
+            "value": 2,
+            "description": "Votre charisme, empathie et beauté mais aussi votre potentiel mystique"
+        }, {
+            "title": "Lucidité",
+            "value": 3,
+            "description": "Votre intellect et votre mémoire, mais aussi votre capacité d’analyse et d'observation"
+        }
+    ],
+    "skills": [
+        {
+            "title": "Combat",
+            "value": 3,
+            "description": "Se battre dans une lutte au corps à corps."
+        }, {
+            "title": "Tir",
+            "value": 1,
+            "description": "Toucher une cible avec un fusil, une fronde ou un arc."
+        }, {
+            "title": "Athlétisme",
+            "value": 2,
+            "description": "Tout ce qui a trait au déplacement ou aux acrobaties"
+        }, {
+            "title": "Pilotage",
+            "value": 2,
+            "description": "Conduire des véhicules, naviguer, surfer"
+        }, {
+            "title": "Roublardise",
+            "value": 2,
+            "description": "Faire les poches d’une personne, se faufiler, arnaquer une personne naive"
+        }, {
+            "title": "Exploration",
+            "value": 1,
+            "description": "Connaitre la géographie et les plantes, prévoir la météo, trouver des ressources ou des pièges"
+        }, {
+            "title": "Bêtes",
+            "value": 1,
+            "description": "Dresser un animal, tirer le meilleur d’une monture, evaluer le danger et les points faibles d’une créature"
+        }, {
+            "title": "Science",
+            "value": 1,
+            "description": "Concevoir des remèdes, des explosifs, réparer ou crocheter un mecanisme"
+        }, {
+            "title": "Érudition",
+            "value": 4,
+            "description": "Connaitre les traditions, les légendes, mais aussi la proficience en arts, savoir jouer d’un instruent, connaitre des chants et des poèmes"
+        }, {
+            "title": "Discours",
+            "value": 1,
+            "description": "Motiver une personne, lui redonner le sourire, commander à une foule, marchander, se faire bien voir de quelqu’un"
+        }
+
+    ],
+    "assets": [
+        {
+            "title": "blank_sword",
+            "value": 3,
+            "description": "Blankman possède une arme en forme d’épée courte et large, à la garde rectangulaire. Elle est faite d’un un materiaux blanc et mat qui ne tranche pas du tout mais semble indestructible et indeformable."
+        },
+        {
+            "title": "blank_pockets",
+            "value": 3,
+            "description": "Blankman ne porte jamais d’habits, mais il a des poches néanmoins. Il peut stocker sur lui un volume de 50cm³"
+        }
+    ],
+    "inventory": [
+        "Barre de savon",
+        "Livre vierge aux pages noires – Peut écrire et dessiner dedans avec SuperGomme",
+        "Bol de méditation en cuivre",
+        "Demi Fromage"
+    ]
+}
