@@ -7,7 +7,7 @@
     "distinctions": [
         {
             "title": "Vraie Neutralité",
-            "description": "Blankman semble agir pour toujours rétablir la neutralité, l’équilibre et l’églité. Ses actes sont décidés et francs. Il fait rarement preuve d’hésitation au point de sembler impulsif",
+            "description": "Blankman semble agir pour toujours rétablir la neutralité, l’équilibre et l’égalité. Ses actes sont décidés et francs. Il fait rarement preuve d’hésitation au point de sembler impulsif",
             "sfx": [
                 {
                     "title": "« Comme toute chose devrait-être »",
@@ -17,10 +17,10 @@
             ]
         }, {
             "title": "Muet mais Bavard",
-            "description": "Blankman ne peut pas parler mais emmet des sons simples. Il gesticule beaucoup afin de se faire comprendre. Les gens qui le cotoient finissent per le comprendre parfaitement"
+            "description": "Blankman ne peut pas parler mais emmet des sons simples. Il gesticule beaucoup afin de se faire comprendre. Les gens qui le cotoient finissent par le comprendre parfaitement"
         }, {
             "title": "Maniaque de la Propreté",
-            "description": "Blankman ne supporte pas la seleté, en particulier sur lui. Il nettoie tout dès qu’il le peut, et est très doué pour ça.",
+            "description": "Blankman ne supporte pas la saleté, en particulier sur lui. Il nettoie tout dès qu’il le peut, et est très doué pour ça.",
             "sfx": [
                 {
                     "title": "SuperGomme",
